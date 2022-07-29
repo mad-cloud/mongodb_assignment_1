@@ -339,7 +339,7 @@ switched to db human_resorse
         "salary" : "28000",
         "department" : "Associate",
         "overallExp" : "2",
-        "contactInfo" : "123567890",
+        "contactInfo" : "80712345609",
         "yearGrad" : "2021",
         "gradStream" : "ECE"
 }
@@ -350,7 +350,7 @@ switched to db human_resorse
         "salary" : "28000",
         "department" : "Software",
         "overallExp" : "1",
-        "contactInfo" : "123567890",
+        "contactInfo" : "8912345670",
         "yearGrad" : "2021",
         "gradStream" : "CSE"
 }
@@ -361,7 +361,7 @@ switched to db human_resorse
         "salary" : "28000",
         "department" : "Software",
         "overallExp" : "2",
-        "contactInfo" : "123567890",
+        "contactInfo" : "7654321980",
         "yearGrad" : "2021",
         "gradStream" : "CSE"
 }
@@ -372,7 +372,7 @@ switched to db human_resorse
         "salary" : "28000",
         "department" : "Management",
         "overallExp" : "2",
-        "contactInfo" : "123567890",
+        "contactInfo" : "7953124680",
         "yearGrad" : "2021",
         "gradStream" : "CSE"
 }
